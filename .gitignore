@@ -1,0 +1,10 @@
+
+\.ipynb_checkpoints/
+
+Sampledata/photometry/science/calibrated\.fits
+
+Sampledata/photometry/science/master_bias\.fits
+
+Sampledata/photometry/science/master_dark\.fits
+
+Sampledata/photometry/science/master_flat\.fits
