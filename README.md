@@ -12,4 +12,4 @@ git clone https://sjhamilton820@bitbucket.org/sjhamilton820/astro-461-python-coo
 
 ## Usage
 
-You should see a number of iPython(Jupyter) notebooks in this new directory, in addition to a subdirectory called `Sampledata`. The notebooks make use of the FITS files located within `Sampledata`, which were taking using instruments you'll be using later in this class!
+You should see a number of iPython(Jupyter) notebooks in this new directory, in addition to a subdirectory called `Sampledata/`. The notebooks make use of the FITS files located within `Sampledata/`, which were taken using instruments you'll be using later in this class!
