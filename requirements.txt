@@ -4,3 +4,4 @@ matplotlib
 astropy
 photutils
 ccdproc
+scipy
