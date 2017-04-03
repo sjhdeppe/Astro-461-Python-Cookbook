@@ -45,4 +45,19 @@ You should now be ready to go!
 You should see a number of iPython(Jupyter) notebooks in this new directory, in
 addition to a subdirectory called `Sampledata`. The notebooks make use of the
 FITS files located within `Sampledata`, which were taking using instruments
-you'll be using later in this class! 
+you'll be using later in this class!
+
+To start the Jupyter notebook server, type at the command line (from inside the cookbook directory):
+
+```bash
+jupyter notebook
+```
+
+This will open a new tab in your internet browser with a complete listing of all the files in this directory.
+You can click on any text file from this window and it will open in a new tab. However, the nice thing about Jupyter is its ability to run IPython notebooks straight from your browser. These files are denoted with a notebook icon. 
+
+The first notebook you should work through is `CalibratingImages.ipynb`, since no matter what kind of astronomy analysis you're doing you will always need to calibrate your raw images into something ready for data analysis! Open this notebook by clicking on its name, and then run each cell by pressing "Shift+Enter" with either the cursor inside the cell or with cell itself selected.
+
+## Problems or Questions?
+
+If you run into any problems getting things setup or while you're working through the notebooks, please don't hesitate to email me at [sjhamil@umich.edu](mailto:sjhamil@umich.edu)!
