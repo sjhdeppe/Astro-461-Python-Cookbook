@@ -30,12 +30,8 @@ execute root access to your machine.
    opted for the "Legacy Software Stack," which includes most of the useful 
    analysis packages, in addition to IRAF and PyRAF. Install these by typing 
    at your terminal:   
-   ```
-   conda install stsci 
-   
-   conda install pyraf
-   
-   conda install iraf
+   ```bash
+   conda install stsci pyraf iraf
    ```   
     * You may see a wall of text after entering this command about new 
       packages being installed, packages being updated/downgraded, etc. This is
