@@ -32,7 +32,9 @@ execute root access to your machine.
    at your terminal:   
    ```
    conda install stsci 
+   
    conda install pyraf
+   
    conda install iraf
    ```   
     * You may see a wall of text after entering this command about new 
