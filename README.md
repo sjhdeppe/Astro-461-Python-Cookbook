@@ -60,4 +60,4 @@ The first notebook you should work through is `CalibratingImages.ipynb`, since n
 
 ## Problems or Questions?
 
-If you run into any problems getting things setup or while you're working through the notebooks, please don't hesitate to email me at [sjhamil@umich.edu](mailto:sjhamil@umich.edu)!
+If you run into any problems getting things set up or while you're working through the notebooks, please don't hesitate to email me at [sjhamil@umich.edu](mailto:sjhamil@umich.edu)!
