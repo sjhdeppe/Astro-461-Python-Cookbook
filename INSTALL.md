@@ -6,6 +6,10 @@ them if you still need to do so.
 
 ## Anaconda
 
+Note: You may need to add `sudo` in front of each of the commands below if you are 
+running into issues with file permissions. This gives the command you're trying to 
+execute root access to your machine.
+
 1. Download anaconda from [here](https://www.continuum.io/downloads). Whether
    you use Python 2 or 3 is up to you, though we recommend Python 3.
     * Mac OSX users should choose the command line installer
@@ -23,15 +27,15 @@ them if you still need to do so.
    analysis packages, in addition to IRAF and PyRAF. Install these by typing 
    at your terminal:   
    ```
-   conda install stsci pyraf iraf python=3
+   conda install stsci 
+   conda install pyraf
+   conda install iraf
    ```   
-   The `python=3` at the end simply ensures that Anaconda installs the 
-   compatible versions of everything.
     * You may see a wall of text after entering this command about new 
       packages being installed, packages being updated/downgraded, etc. This is
       all okay, and is Anaconda ensuring everything is compatible with 
       everything else.       
-4. The last piece of software that will be useful for us is Source Extractor 
+4. The last piece of software that may be useful for us is Source Extractor 
    (hopefully the name is self-explanatory!). Install it with:   
    ```
    conda install sextractor
