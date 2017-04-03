@@ -1,7 +1,11 @@
 # Installing Prerequisite Software
 
-You will find both Anaconda and Git to be very useful for this tutorial 
-repository and for Astro 461 in general. Below, I detail how to install each 
+You will find the following software useful for this course:
+* Anaconda
+* Git
+* DS9
+
+Below, I detail how to install each 
 them if you still need to do so.
 
 ## Anaconda
@@ -47,3 +51,7 @@ Since there are different sets of directions for Linux/Mac/Windows users, I
 will simply direct you to the 
 [Git installation page](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), where installation for 
 each platform is explicitly detailed.
+
+## DS9
+
+Navigate to [this link](http://ds9.si.edu/site/Download.html) to download the correct version of DS9 for your operating system.
