@@ -13,6 +13,7 @@ them if you still need to do so.
    Telescope Institute, and contains all of the packages and software (not just 
    python!) that one may find useful for astronomy analysis. Add the 
    AstroConda channel to anaconda by typing at your terminal:
+   
    ```bash
    conda config --add channels http://ssb.stsci.edu/astroconda
    ```
@@ -22,6 +23,7 @@ them if you still need to do so.
    opted for the "Legacy Software Stack," which includes most of the useful 
    analysis packages, in addition to IRAF and PyRAF. Install these by typing 
    at your terminal:
+   
    ```bash
    conda install stsci pyraf iraf python=3
    ```
@@ -33,6 +35,7 @@ them if you still need to do so.
       everything else. 
 4. The last piece of software that will be useful for us is Source Extractor 
    (hopefully the name is self-explanatory!). Install it with:
+   
    ```bash
    conda install sextractor
    ```
