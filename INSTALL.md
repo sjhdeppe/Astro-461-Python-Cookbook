@@ -17,6 +17,7 @@ them if you still need to do so.
    ```bash
    conda config --add channels http://ssb.stsci.edu/astroconda
    ```
+   
 3. You now have a few choices in terms of which AstroConda software to 
    install. The options are detailed 
    [here](https://astroconda.readthedocs.io/en/latest/installation.html). I've 
@@ -27,12 +28,14 @@ them if you still need to do so.
    ```bash
    conda install stsci pyraf iraf python=3
    ```
+   
    The `python=3` at the end simply ensures that Anaconda installs the 
    compatible versions of everything.
     * You may see a wall of text after entering this command about new 
       packages being installed, packages being updated/downgraded, etc. This is
       all okay, and is Anaconda ensuring everything is compatible with 
       everything else. 
+      
 4. The last piece of software that will be useful for us is Source Extractor 
    (hopefully the name is self-explanatory!). Install it with:
    
