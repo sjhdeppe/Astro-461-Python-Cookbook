@@ -1,6 +1,6 @@
 # Installing Prerequisite Software
 
-You will find both `anaconda` and `git` to be very useful for this tutorial 
+You will find both Anaconda and Git to be very useful for this tutorial 
 repository and for Astro 461 in general. Below, I detail how to install each 
 them if you still need to do so.
 
@@ -25,11 +25,11 @@ them if you still need to do so.
    ```bash
    conda install stsci pyraf iraf python=3
    ```
-   The `python=3` at the end simply ensures that `conda` installs the 
+   The `python=3` at the end simply ensures that Anaconda installs the 
    compatible versions of everything.
     * You may see a wall of text after entering this command about new 
       packages being installed, packages being updated/downgraded, etc. This is
-      all okay, and is `conda` insuring everything is compatible with 
+      all okay, and is Anaconda ensuring everything is compatible with 
       everything else. 
 4. The last piece of software that will be useful for us is Source Extractor 
    (hopefully the name is self-explanatory!). Install it with:
