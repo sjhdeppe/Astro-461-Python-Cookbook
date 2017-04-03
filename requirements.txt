@@ -5,3 +5,4 @@ astropy
 photutils
 ccdproc
 scipy
+pyds9
