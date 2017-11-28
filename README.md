@@ -17,13 +17,13 @@ To start using the code in this repository, use your terminal to navigate to the
 directory you'd like all of your Astro 461 work to be in. Then type 
 
 ```bash
-git clone https://sjhamilton820@bitbucket.org/sjhamilton820/astro-461-python-cookbook.git
+git clone https://github.com/sjhamil/Astro-461-Python-Cookbook.git
 ```
 
 Then navigate to the directory that was just created:
 
 ```bash
-cd astro-461-python-cookbook
+cd Astro-461-Python-Cookbook
 ```
 
 You should see several Jupyter notebooks dealing with various important
